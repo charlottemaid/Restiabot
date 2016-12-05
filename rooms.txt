@@ -1,4 +1,5 @@
 animaiden-net
+tanpaid-chat
 maidenstaff
 awbatch
 khususme
